@@ -1,0 +1,66 @@
+// Applications
+"/Applications/Cydia.app",
+"/Applications/Sileo.app",
+"/Applications/Zebra.app",
+"/Applications/FakeCarrier.app",
+"/Applications/Icy.app",
+"/Applications/IntelliScreen.app",
+"/Applications/IntelliScreenx.app",
+"/Applications/MxTube.app",
+"/Applications/RockApp.app",
+"/Applications/SBSettings.app",
+"/Applications/WinterBoard.app",
+"/Applications/blackra1n.app",
+"/Applications/Checkra1n.app",
+"/Applications/Anemone.app",
+"/Applications/iFile.app",
+"/Applications/Phantom.app",
+"/Applications/AFC2.app",
+"/Applications/MTerminal.app",
+"/Applications/Filza.app",
+"/Applications/Alivemedia.app",
+"/Applications/FilzaJailed.app",
+
+// Library/MobileSubstrate
+"/Library/MobileSubstrate/MobileSubstrate.dylib",
+"/Library/MobileSubstrate/DynamicLibraries/LiveClock.plist",
+"/Library/MobileSubstrate/DynamicLibraries/Veency.plist",
+"/Library/MobileSubstrate/DynamicLibraries/Barrel.plist",
+"/Library/MobileSubstrate/DynamicLibraries/Activator.plist",
+"/Library/MobileSubstrate/DynamicLibraries/SBSettings.plist",
+"/Library/MobileSubstrate/DynamicLibraries/NoSlowAnimations.plist",
+"/Library/MobileSubstrate/DynamicLibraries/AdBlocker.plist",
+
+// System/LaunchDaemons
+"/System/Library/LaunchDaemons/com.ikey.bbot.plist",
+"/System/Library/LaunchDaemons/com.saurik.Cydia.Startup.plist",
+"/System/Library/LaunchDaemons/com.apple.amsd.plist",
+"/System/Library/LaunchDaemons/com.apple.mobile.house_arrest.plist",
+"/System/Library/LaunchDaemons/com.apple.caches.plist",
+
+// System Binaries
+"/usr/sbin/sshd",
+"/usr/bin/sshd",
+"/bin/bash",
+"/usr/libexec/sshd",
+"/usr/libexec/sshd_config",
+"/usr/lib/libjailbreak.dylib",
+
+// Directories
+"/etc/apt",
+"/private/var/lib/cydia",
+"/private/var/lib/apt",
+"/private/var/stash",
+"/private/var/tmp/",
+"/var/cache/apt",
+"/var/log/syslog",
+"/var/tmp/cydia.log",
+"/var/log/apt",
+
+// Preferences
+"/private/var/mobile/Library/SBSettings/Themes",
+"/private/var/mobile/Library/Preferences/com.unc0ver.unc0ver.plist",
+"/private/var/mobile/Library/Preferences/com.bigboss.repo.plist",
+"/private/var/mobile/Library/Preferences/com.pangu.pangu.plist",
+"/private/var/mobile/Library/Preferences/com.apple.springboard.plist",
+"/private/var/mobile/Library/Preferences/com.ih8sn0w.plist"
