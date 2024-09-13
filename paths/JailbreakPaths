@@ -54,6 +54,7 @@ This list includes a variety of paths related to common and less common jailbrea
 "/private/var/lib/apt",
 "/private/var/stash",
 "/private/var/tmp/",
+"/var/lib/cydia",
 "/var/cache/apt",
 "/var/log/syslog",
 "/var/tmp/cydia.log",
